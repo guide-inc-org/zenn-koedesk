@@ -2,7 +2,7 @@
 title: "音声入力、使っていますか？ — キーボードの「次」の入力インターフェースの話"
 emoji: "🎙"
 type: "idea"
-topics: ["音声入力", "speechtotext", "koedesk", "rust", "claudecode"]
+topics: ["speechtotext", "rust", "tauri", "elevenlabs", "claudecode"]
 published: true
 ---
 
