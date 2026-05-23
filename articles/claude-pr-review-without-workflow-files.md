@@ -1,8 +1,8 @@
 ---
 title: "`.github/workflows/` ゼロ配置で、組織全リポジトリに AI PR レビューを配信する"
-emoji: "🛰️"
+emoji: "🛰"
 type: "tech"
-topics: ["github", "githubactions", "claude", "bedrock", "devops"]
+topics: ["github", "githubactions", "claudecode", "bedrock", "devops"]
 published: true
 ---
 
