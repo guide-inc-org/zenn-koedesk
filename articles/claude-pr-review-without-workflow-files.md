@@ -1,5 +1,5 @@
 ---
-title: "`.github/workflows/` を1ファイルも置かずに、組織全リポジトリで AI PR レビューを動かす — Custom Properties × Ruleset × Bedrock"
+title: "`.github/workflows/` ゼロ配置で、組織全リポジトリに AI PR レビューを配信する"
 emoji: "🛰️"
 type: "tech"
 topics: ["github", "githubactions", "claude", "bedrock", "devops"]
